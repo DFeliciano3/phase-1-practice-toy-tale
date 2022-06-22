@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Destiny",
+      "image": "12345",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Des",
+      "image": "2346",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Tiana",
+      "image": "3456",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
